@@ -1,0 +1,405 @@
+# World Unlocks
+- id: 0x3D17
+  en: 'Unlocks a visit to {:color #FAF00080}Disney Castle{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x05DB
+  en: 'Unlocks a visit to {:color #FAF00080}Agrabah{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x05DD
+  en: 'Unlocks a visit to {:color #FAF00080}Olympus Coliseum{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x05DF
+  en: 'Unlocks a visit to {:color #FAF00080}The Land of Dragons{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x05E3
+  en: 'Unlocks a visit to {:color #FAF00080}Space Paranoids{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x05E7
+  en: 'Unlocks a visit to {:color #FAF00080}Beast´s Castle{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x05E9
+  en: 'Unlocks a visit to {:color #FAF00080}Halloween Town{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x05EB
+  en: 'Unlocks a visit to {:color #FAF00080}Pride Lands{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x05ED
+  en: 'Unlocks a visit to {:color #FAF00080}Port Royal{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x05EF
+  en: 'Unlocks a visit to {:color #FAF00080}The World That Never Was{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x3B16
+  en: 'Unlocks the visit to {:color #FAF00080}Simulated Twilight Town{:reset}.
+
+This is the only copy.'
+- id: 0x3B18
+  en: 'Unlocks a visit to {:color #FAF00080}Hollow Bastion{:reset}.
+
+There are {:color #F0F00080}2{:reset} in total.'
+- id: 0x3B24
+  en: 'Unlocks a visit to {:color #FAF00080}Twilight Town{:reset}.
+
+There are {:color #F0F00080}3{:reset} in total.'
+- id: 0x05F3
+  en: 'Unlocks a visit to {:color #FAF00080}The 100 Acre Wood{:reset}.
+
+This item is consumed upon entering the world.
+
+There are {:color #F0F00080}5{:reset} in total.'
+
+#
+#
+#
+#
+#
+
+# GoA Items
+- id: 0x3D1B
+  en: 'Opens the door to {:color #F0F00080}Heartless Manufactory{:reset}
+
+before completing the {:color #F0F00080}1000 Heartless{:reset} event
+
+in {:color #FAF00080}Hollow Bastion{:reset}.'
+- id: 0x467C
+  en: 'Allows access to the Terminal in the {:color #F0F00080}Garden of 
+
+Assemblage{:reset} once all {:color #FAF00080}3 Proofs{:reset} have been collected. 
+
+Used to skip directly to the {:color #FAF00080}Final Fights{:reset}.'
+- id: 0x3B1A
+  en: 'Allows the use of {:color #F0F00080}Drive Forms{:reset} in 
+
+{:color #FAF00080}Olympus Coliseum{:reset} before defeating
+
+Demyx during the story.'
+- id: 0x4C0F
+  en: 'Unlocks all {:color #F0F00080}Underworld Cups{:reset} early. After 
+
+completing {:color #FAF00080}Olympus Coliseum´s{:reset} first visit, all 
+
+cups will be available by talking to {:color #FAF00080}Panic{:reset}.'
+- id: 0x3B12
+  en: 'An item for the {:color #F0F00080}Garden of Assemblage{:reset} mod.
+
+You can ignore this one!'
+- id: 0x48FA
+  en: 'The King´s Money Pouch'
+- id: 0x48FB
+  en: 'A pouch from the King. Inside was {:color #FAF00080}5,000 Munny{:reset}!'
+- id: 0x3B09
+  en: 'Olette´s Money Pouch'
+- id: 0x3B0A
+  en: 'A pouch from Olette. Inside was {:color #FAF00080}5,000 Munny{:reset}!
+
+({:color #FAF00080}2,500 Munny{:reset} in Archipelago.)'
+
+#
+#
+#
+#
+#
+
+
+# Proofs
+- id: 0x4FAE
+  en: 'One of {:color #FAF00080}3 Proofs{:reset} to unlock the Final Door.
+
+Also unlocks the fight with {:color #F0F00080}Lingering Will{:reset} 
+
+in {:color #FAF00080}Disney Castle{:reset}.'
+
+- id: 0x4FB0
+  en: 'One of {:color #FAF00080}3 Proofs{:reset} to unlock the Final Door.
+
+Nothing is unlocked from this Proof.'
+
+- id: 0x4FB2
+  en: 'One of {:color #FAF00080}3 Proofs{:reset} to unlock the Final Door.
+
+Also unlocks the {:color #F0F00080}Mushroom XIII{:reset} 
+
+in {:color #FAF00080}Hollow Bastion{:reset}.'
+
+
+#
+#
+#
+#
+#
+
+# Summons
+- id: 0x0641
+  en: 'Unlocks the ability to summon {:color #FAF00080}Stitch{:reset}.'
+- id: 0x285C
+  en: 'Unlocks the ability to summon {:color #FAF00080}Genie{:reset}.'
+- id: 0x285E
+  en: 'Unlocks the ability to summon {:color #FAF00080}Peter Pan{:reset}.'
+- id: 0x3B7B
+  en: 'Unlocks the ability to summon {:color #FAF00080}Chicken Little{:reset}.'
+
+#
+#
+#
+#
+#
+
+# Items
+- id: 0x05AD
+  en: 'Restores Party to {:color #FAF00080}MAX HP and MP{:reset}.
+
+Only usable from the Menu.'
+
+- id: 0x39DA
+  en: 'Restores {:color #FAF00080}3 Drive Bars{:reset}.
+
+Only usable from the Menu.'
+
+- id: 0x39DC
+  en: 'Restores {:color #FAF00080}MAX Drive Bars{:reset}.
+
+Only usable from the Menu.'
+
+- id: 0x39DE
+  en: '{:color #FAF00080}Strength +1{:reset}.
+
+Only usable from the Menu.'
+
+- id: 0x39E0
+  en: '{:color #FAF00080}Magic +1{:reset}.
+
+Only usable from the Menu.'
+
+- id: 0x39E2
+  en: '{:color #FAF00080}Defense +1{:reset}.
+
+Only usable from the Menu.'
+
+- id: 0x39E4
+  en: '{:color #FAF00080}AP +1{:reset}.
+
+Only usable from the Menu.'
+
+#
+#
+#
+#
+#
+#Keyblades
+- id: 0x05C5
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x05C7
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3DFB
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3DFD
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E2F
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E31
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E33
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E35
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E37
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E39
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E3B
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E3D
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E3F
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E41
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E45
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E47
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E43
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E4B
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x4E36
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E49
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E4D
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3E4F
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x4E38
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x05CD
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x05C3
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x05E5
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x05C9
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x05CB
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+- id: 0x3BB2
+  en: 'A {:color #FAF00080}Keyblade{:reset} like weapon that can be equipt to Sora.'
+- id: 0x3E51
+  en: 'A {:color #FAF00080}Keyblade{:reset} like weapon that can be equipt to Sora.'
+- id: 0x3E53
+  en: 'A {:color #FAF00080}Keyblade{:reset} like weapon that can be equipt to Sora.'
+
+#
+#
+#
+#
+#
+
+#Shields
+- id: 0x05D5
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x2074
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x207A
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x2076
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x207C
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x207E
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x2078
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x2080
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x2082
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x5382
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x2084
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x4E48
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x4E4A
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x3E01
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x3E57
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x4E4C
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x4E4E
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+- id: 0x4E50
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.
+
+Absorbs {:color #FAF00080}10%{:reset} of the damage taken.'
+- id: 0x4E52
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.
+
+Absorbs {:color #FAF00080}20%{:reset} of the damage taken.'
+- id: 0x4E54
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.
+
+Absorbs {:color #FAF00080}40%{:reset} of the damage taken.'
+
+
+#
+#
+#
+#
+#
+
+#Staffs
+- id: 0x05CF
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x2290
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x2296
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x2292
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x2298
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x229A
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x229C
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x2294
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x22A0
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x5380
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x229E
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x4E3A
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x4E3C
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x3DFF
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x3E55
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x4E3E
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x4E40
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x4E42
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x4E44
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+- id: 0x4E46
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+
+#
+#
+#
+#
+#
+
+# Junk
+- id: 0x4C56
+  en: 'A Junk item.'
+- id: 0x3B0E
+  en: 'A Junk item.'
+- id: 0x3B1E
+  en: 'A Junk item.'
+- id: 0x3B0C
+  en: 'A Junk item.'
+- id: 0x3B20
+  en: 'A Junk item.'
+- id: 0x3B22
+  en: 'A Junk item.'
+
+#
+#
+#
+#
+#
+
+# Menu
+- id: 0x0AA2
+  en: 'Select file to load.
+
+Hold {:icon dynamic-select} to load auto-save.
+
+{:icon dynamic-triangle} Delete file'
+
+
+- id: 0x0AA1
+  en: 'Select file to save.
+
+Hold {:icon dynamic-l1}/{:icon dynamic-l2}/{:icon dynamic-r1}/{:icon dynamic-r2}/{:icon dynamic-start} to soft-reset at any time.
+
+{:icon dynamic-triangle} Delete file'
