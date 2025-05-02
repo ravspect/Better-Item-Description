@@ -197,67 +197,73 @@ Only usable from the Menu.'
 #
 #Keyblades
 - id: 0x05C5
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x05C7
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3DFB
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3DFD
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E2F
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E31
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E33
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E35
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E37
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E39
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E3B
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E3D
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E3F
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E41
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E45
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E47
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E43
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E4B
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x4E36
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E49
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E4D
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3E4F
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x4E38
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x05CD
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x05C3
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x05E5
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x05C9
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x05CB
-  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} that can be equipped to Sora.'
 - id: 0x3BB2
-  en: 'A {:color #FAF00080}Keyblade{:reset} like weapon that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} like weapon 
+
+that can be equipped to Sora.'
 - id: 0x3E51
-  en: 'A {:color #FAF00080}Keyblade{:reset} like weapon that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} like weapon 
+
+that can be equipped to Sora.'
 - id: 0x3E53
-  en: 'A {:color #FAF00080}Keyblade{:reset} like weapon that can be equipt to Sora.'
+  en: 'A {:color #FAF00080}Keyblade{:reset} like weapon 
+
+that can be equipped to Sora.'
 
 #
 #
@@ -267,49 +273,49 @@ Only usable from the Menu.'
 
 #Shields
 - id: 0x05D5
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x2074
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x207A
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x2076
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x207C
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x207E
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x2078
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x2080
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x2082
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x5382
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x2084
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x4E48
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x4E4A
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x3E01
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x3E57
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x4E4C
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x4E4E
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.'
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.'
 - id: 0x4E50
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.
 
 Absorbs {:color #FAF00080}10%{:reset} of the damage taken.'
 - id: 0x4E52
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.
 
 Absorbs {:color #FAF00080}20%{:reset} of the damage taken.'
 - id: 0x4E54
-  en: 'A {:color #FAF00080}Shield{:reset} that can be equipt to Goofy.
+  en: 'A {:color #FAF00080}Shield{:reset} that can be equipped to Goofy.
 
 Absorbs {:color #FAF00080}40%{:reset} of the damage taken.'
 
@@ -322,45 +328,45 @@ Absorbs {:color #FAF00080}40%{:reset} of the damage taken.'
 
 #Staffs
 - id: 0x05CF
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x2290
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x2296
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x2292
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x2298
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x229A
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x229C
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x2294
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x22A0
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x5380
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x229E
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x4E3A
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x4E3C
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x3DFF
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x3E55
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x4E3E
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x4E40
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x4E42
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x4E44
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 - id: 0x4E46
-  en: 'A {:color #FAF00080}Staff{:reset} that can be equipt to Donald.'
+  en: 'A {:color #FAF00080}Staff{:reset} that can be equipped to Donald.'
 
 #
 #
