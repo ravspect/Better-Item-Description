@@ -94,11 +94,11 @@ cups will be available by talking to {:color #FAF00080}Panic{:reset}.'
 
 You can ignore this one!'
 - id: 0x48FA
-  en: 'The King´s Money Pouch'
+  en: '{:width 84}The King´s Money Pouch'
 - id: 0x48FB
   en: 'A pouch from the King. Inside was {:color #FAF00080}5,000 Munny{:reset}!'
 - id: 0x3B09
-  en: 'Olette´s Money Pouch'
+  en: '{:width 84}Olette´s Money Pouch'
 - id: 0x3B0A
   en: 'A pouch from Olette. Inside was {:color #FAF00080}5,000 Munny{:reset}!
 
